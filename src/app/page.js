@@ -106,7 +106,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Oolong's 0 Tax and LP Burn!
+            Learn about Oolong&aopos;s 0 Tax and LP Burn!
           </p>
         </a>
 
